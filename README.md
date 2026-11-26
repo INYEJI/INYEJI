@@ -3,7 +3,7 @@
 
 # Hi, I'm YEJI 👋
 
-### Understand. Connect. Simplify.
+### Understand. Connect. Solve.
 
 Connecting People, Design, and Technology.
 
