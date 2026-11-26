@@ -87,32 +87,34 @@ Connecting People, Design, and Technology.
 - 기업 및 브랜드 정보 구조 설계
 - 상품 통합검색 및 브랜드별 검색 기능
 - DART 공시정보 API 연동
+[Live Demo(cafe24)](https://yejix2n.mycafe24.com/)
+[Live Demo(vercel)](project-pc-iyj.vercel.app)
 
 ### NEOPHARM Mobile
 - 모바일 환경에 맞춘 UI/UX 재설계
 - 스크롤 기반 인터랙션
 - 모바일 내비게이션 및 콘텐츠 재구성
-
-[Live Demo](https://yejix2n.mycafe24.com/mobile/)
+[Live Demo(cafe24)](https://yejix2n.mycafe24.com/mobile/)
+[Live Demo(vercel)](project-mobile-iyj.vercel.app)
 
 ### SAMSUNG LIONS
 - 디바이스별 반응형 레이아웃 설계
 - KBO 경기 데이터 API 연동
 - 선수단 및 구단 미디어 콘텐츠 구성
-
-[Live Demo](https://yejix2n.mycafe24.com/media/)
+[Live Demo(cafe24)](https://yejix2n.mycafe24.com/media/)
+[Live Demo(vercel)](project-responsive-iyj.vercel.app )
 
 ### AIPMS
 - Spring Boot 기반 통합 주차관리 시스템
 - 사용자 인증 및 마이페이지 구현
 - 차량 등록 및 데이터베이스 연동
-
 [Repository](https://github.com/INYEJI/aipmsproject)
 
 ### Food Community
 - 맛집 리뷰 게시판 CRUD
 - 이미지 업로드, 검색 및 페이지네이션
 - Git 기반 팀 프로젝트 협업
+[Repository](https://github.com/INYEJI/aipmsproject)
 
 <br>
 
