@@ -129,7 +129,7 @@ Connecting People, Design, and Technology.
 ## 🔗 Portfolio & Contact
 
 [![Web Portfolio](https://img.shields.io/badge/Web_Portfolio-222222?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yejix2n.mycafe24.com/profile/)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://petalite-swallow-e26.notion.site/Main-Profile-2415dc05a5ef8062b466fe1b754b153e?source=copy_link)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://petalite-swallow-e26.notion.site/Main-Profile-9f15dc05a5ef82f9a84381b9638b5b4e)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/INYEJI)
 [![Email](https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:gyutree@naver.com)
 
